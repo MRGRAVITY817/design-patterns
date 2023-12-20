@@ -7,10 +7,10 @@ GoF's design patterns implemented in programming languages I mainly use.
 | Patterns \ Language     |                 Rust                 |                         Elixir                         | Clojure | Dart | Typescript |
 | ----------------------- | :----------------------------------: | :----------------------------------------------------: | :-----: | :--: | :--------: |
 | Abstract Factory        | [✅](./rust/src/abstract_factory.rs) | [✅](./elixir/lib/design_patterns/abstract_factory.ex) |         |      |            |
+| Factory Method          |                                      |                                                        |         |      |            |
 | Builder                 |   [✅](./rust/src/builder/mod.rs)    |                                                        |         |      |            |
 | Prototype               |    [✅](./rust/src/prototype.rs)     |                                                        |         |      |            |
-| Singleton               |                                      |                                                        |         |      |            |
-| Factory Method          |                                      |                                                        |         |      |            |
+| Singleton               |    [✅](./rust/src/singleton.rs)     |                                                        |         |      |            |
 | Adapter                 |                                      |                                                        |         |      |            |
 | Bridge                  |                                      |                                                        |         |      |            |
 | Composite               |                                      |                                                        |         |      |            |
