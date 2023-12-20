@@ -1,6 +1,6 @@
 # Design Patterns
 
-Design patterns implementations for my daily used programming languages.
+GoF's design patterns implemented in programming languages I use often.
 
 ## Index
 
