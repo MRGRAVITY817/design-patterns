@@ -8,7 +8,7 @@ GoF's design patterns implemented in programming languages I mainly use.
 | ----------------------- | :----------------------------------: | :----------------------------------------------------: | :-----: | :--: | :--------: |
 | Abstract Factory        | [✅](./rust/src/abstract_factory.rs) | [✅](./elixir/lib/design_patterns/abstract_factory.ex) |         |      |            |
 | Builder                 |   [✅](./rust/src/builder/mod.rs)    |                                                        |         |      |            |
-| Prototype               |                                      |                                                        |         |      |            |
+| Prototype               |    [✅](./rust/src/prototype.rs)     |                                                        |         |      |            |
 | Singleton               |                                      |                                                        |         |      |            |
 | Factory Method          |                                      |                                                        |         |      |            |
 | Adapter                 |                                      |                                                        |         |      |            |
