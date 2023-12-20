@@ -1,14 +1,4 @@
-#[derive(Debug, PartialEq)]
-pub enum Gender {
-    Male,
-    Female,
-}
-
-impl Default for Gender {
-    fn default() -> Self {
-        Gender::Male
-    }
-}
+use super::Gender;
 
 #[derive(Debug, PartialEq, Default)]
 pub struct User {
@@ -66,7 +56,7 @@ impl UserBuilder {
 }
 
 #[test]
-fn builder_test() {
+fn builder_default_test() {
     let hoon = User {
         name: "Hoon Wee".to_string(),
         age: 29,
