@@ -10,7 +10,7 @@ GoF's design patterns implemented in programming languages I mainly use.
 | Factory Method          |                                      |                                                        |         |      |            |
 | Builder                 |   [✅](./rust/src/builder/mod.rs)    |                                                        |         |      |            |
 | Prototype               |    [✅](./rust/src/prototype.rs)     |                                                        |         |      |            |
-| Singleton               |    [✅](./rust/src/singleton.rs)     |                                                        |         |      |            |
+| Singleton               |    [✅](./rust/src/singleton.rs)     |    [✅](./elixir/lib/design_patterns/singleton.ex)     |         |      |            |
 | Adapter                 |                                      |                                                        |         |      |            |
 | Bridge                  |                                      |                                                        |         |      |            |
 | Composite               |                                      |                                                        |         |      |            |
