@@ -1,1 +1,6 @@
 target/
+clojure/.clj-kondo
+.clj-kondo
+.lsp
+.nrepl-port
+clojure/.cpcache
