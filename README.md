@@ -12,7 +12,7 @@ GoF's design patterns implemented in programming languages I mainly use.
 | Prototype               |    [✅](./rust/src/prototype.rs)     |                                                        |                                       |                                 |            |
 | Singleton               |    [✅](./rust/src/singleton.rs)     |    [✅](./elixir/lib/design_patterns/singleton.ex)     | [✅](./clojure/src/dev/singleton.clj) | [✅](./dart/lib/singleton.dart) |            |
 | Adapter (class)         |                                      |  [✅](./elixir/lib/design_patterns/class_adapter.ex)   |                                       |                                 |            |
-| Adapter (object)        |                                      |                                                        |                                       |                                 |            |
+| Adapter (object)        |                                      |  [✅](./elixir/lib/design_patterns/object_adapter.ex)  |                                       |                                 |            |
 | Bridge                  |                                      |                                                        |                                       |                                 |            |
 | Composite               |                                      |                                                        |                                       |                                 |            |
 | Decorator               |                                      |                                                        |                                       |                                 |            |
